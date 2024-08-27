@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "152391504597",
+    "firebase_url": "https://dogmobileapp-e46e5-default-rtdb.firebaseio.com",
+    "project_id": "dogmobileapp-e46e5",
+    "storage_bucket": "dogmobileapp-e46e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152391504597:android:1055f2c62370e4353d885c",
+        "android_client_info": {
+          "package_name": "com.example.dogcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAxptaL7PVSM2WReFRVp_HBgICEBsqwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
